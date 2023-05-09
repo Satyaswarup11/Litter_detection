@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roadside-litter-detection",
+  "private_key_id": "0f93e3fee5fd94e45095119f31075cb57e469038",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaAN4FusZLS1Gb\nIipltNXCcq1w3LZtFUyiueDcimByBsR25ylTm39n8+MIMlYkxChB8Zgo6YP77+UJ\ndizkPmr8xK42xSyIe/m7emBul+Fxo4IlEzSBcCeFtUzvfnNxcpyoBAWoMt/BQyDW\nH6BSIvZnw7cRKRI/uEQSCdWkXOliDiFBI07TfTPx4auQaT8mWEUhOmO1tY4udsrN\nwAcM3QdnF5hqzeqOCrJC9nHiiHGvzO7NCGhEDplS6E9ZsDZrBwN2Iar7GmxR5k1F\n70dm9ccLvXljWh+JxcY6xMlBwkc7jljk61uLKjyD2It+OSoLOzcIMeg+97djuBje\nAAXbF5SDAgMBAAECggEACCeC7aC27qdJoonwH0UDho71Afpz8762C6G7g1DFE8Qk\ntCYaK5MnmMv+UmUADxxWkraqHqfd314caXnNFbxLvWjQZWm8VvrR9H7lhJ9Foswm\nTgcMmQIzc89KjexVGsmhNM2rC2QVGVBc4K5m8PR3SAwByreWZ2/e/UmE/zSCtvhx\n4TytJg2QakvEV0h19jIvuq+5/ZNGOGJZ2LiPY2dEJvQZoncsinC/WTbTjUh4SE9y\naJG+smfa8CHC581mz/bt17RKvAyjtEAzLRXPb0d43dyvqUBgGcXDeWAxKsTWIAS3\nS1TN18z1LtqF888gFdc1SLixgfp3oBDkfzhFJzN8gQKBgQDwnTRJiti3Rql2/Ibf\nW4nX9iYdzIMxukJawTchOYM6TrVQRFzsb7xt0lCgfhF0pmYHpF4RGKQh4mpbYPYK\nW/saAKDMLwqE6GoczIC6GsfvKaY9vO4XvL2dtcCjZEspG28sKjT4wc2onLLBvRNZ\nnHyOrfNXYWMnxuoAoP5HT6WagQKBgQDn8YgF/aaXLIsqwAtX65r0rKiyZ++rM4Uh\n9NU8mYDYuljJbyaeuH8U6SRycqLWLTuGJZ12QbxCAdI4A1jaoOS5ZTisrmNSxbmJ\n0dtiSrWZdPAXokOgHuV8GgtlQ6xpXBNjSJmjPn7cmD8ESbYr5976O8O+QHAmefhE\nNw4t1IJFAwKBgQDqd9Z2/8VVO5dx6nyndTUq7KOSEDOcJqv4ciX9y2SUUhSfRi7i\n+7M7tWF6M79g07HDKqm7sS5oEpGfwCmiSKW1Xf1TW1e90hltPN8H+4bvCMAFk3DU\nUsjXwUAaOGaBhUldWTfLXFfDQgdzgYM0pKhABUSG1tDf9xcaS8fdx8BRgQKBgQDP\nVumKuXGnaClL4PsC8FnH6WSwfxsPhvG3Jh9MmchFdWeTQipa7oCj17o+GN4Z6btx\nMsTtBtxcgTZD3jIa1oNAfAzKyOV/A8PVQOUFm9V0xcUuy136kEQCyWFwd6tzT90A\n/tBgzqgnWG3UznPsEc4REUXtF7tpmdTmXfTt4S9GswKBgGrU+j39nYxObKknN2yR\nrK3S1pcIGIU5Qsbs6M/sllsNmWLJZABXGnvREAxzuZ7YJDzlzqomfWXMXUqL5yfX\n+e/VtyE3aWQUOqjUR3fPjd8xRNiW+n+TZ2cnolYvlAu88A62lTUslsrWyQVy0UJb\njxilKN5EMyCpIAR5KYfnwMCG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l7wjx@roadside-litter-detection.iam.gserviceaccount.com",
+  "client_id": "108693736069004063799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l7wjx%40roadside-litter-detection.iam.gserviceaccount.com"
+}
