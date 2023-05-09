@@ -1,0 +1,9 @@
+@import url("./map.css");
+
+.heading{
+    text-align: center;
+    /* font-family: 'Corinthia', cursive;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Roboto', sans-serif; */
+    font-family: 'Bruno Ace SC', cursive;
+}
