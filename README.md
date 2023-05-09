@@ -22,7 +22,7 @@ To get started with this project, you will need the following:
 - Edge Impulse account for model preparation and dataset creation
 - Install all node modules necessary to run the website
 
-To prepare the machine learning model and dataset, follow [this link](https://studio.edgeimpulse.com/studio/210762) to Edge Impulse.This is where I have written the code for machine learning model preparation.
+To prepare the machine learning model and dataset, follow [this link](https://studio.edgeimpulse.com/public/210762/latest) to Edge Impulse.This is where I have written the code for machine learning model preparation.
 
 ## Setup
 
